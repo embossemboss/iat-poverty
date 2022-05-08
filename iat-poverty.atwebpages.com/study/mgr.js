@@ -6,7 +6,7 @@ define(['managerAPI'], function(Manager){
         {
             type: 'message',
             keys: ' ',
-            template:'Hello World (please click space to proceed)'
+            template:'こんにちは。社会的格差IATへようこそ (次に行くにはスペースキーを押してください)'
         },
         {
             name:'my-quest',
