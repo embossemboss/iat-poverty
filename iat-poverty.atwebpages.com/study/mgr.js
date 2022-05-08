@@ -23,7 +23,7 @@ define(['managerAPI'], function(Manager){
         { type:'postCsv', load: console.log },
         {
             type: 'message',
-            template:'Debriefing page or something'
+            template:'これで終了となります。ご協力ありがとうございました。おつかれさまでした。'
         }
     ]);
 
